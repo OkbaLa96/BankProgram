@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OkbaLa\\source\\repos\\BankProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E73DC-A49C-4F8C-85A9-8E9C339B7058}|BankProgram\\BankProgram.vcxproj|C:\\Users\\OkbaLa\\source\\repos\\BankProgram\\BankProgram\\BankProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B53E73DC-A49C-4F8C-85A9-8E9C339B7058}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\BankProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\OkbaLa\\source\\repos\\BankProgram\\BankProgram\\BankProgram.cpp",
+              "RelativeDocumentMoniker": "BankProgram\\BankProgram.cpp",
+              "ToolTip": "C:\\Users\\OkbaLa\\source\\repos\\BankProgram\\BankProgram\\BankProgram.cpp*",
+              "RelativeToolTip": "BankProgram\\BankProgram.cpp*",
+              "ViewState": "AgIAAE4FAAAAAAAAAAAowGUFAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-31T10:11:59.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
